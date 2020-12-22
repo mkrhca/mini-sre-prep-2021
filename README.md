@@ -8,7 +8,6 @@ Python Essentials
 Object-oriented Python 
 Go Systems Programming 
 Developing Scalable Apps in Python 
-Git 
 </pre>
 
 ##### System Administration and Automation
@@ -57,6 +56,7 @@ Cybersecurity Analyst
 Certified Kubernetes Administrator 
 Certified Kubernetes Application Developer 
 Elastic Certified Engineer
+Nagios Certified Professional 
 HashiCorp Infrastructure Automation Certification (Terraform Associate) 
 HashiCorp Security Automation Certification (Vault Associate) 
 HashiCorp Networking Automation Certification (Consul Associate)
@@ -65,4 +65,21 @@ GCP Cloud Architect - Professional
 Certified Ethical Hacker
 Certified Information Systems Security Professional 
 AWS Certifed Security - Speciality 
+</pre>
+
+### Tools 
+<pre>
+Git
+Gitlab
+Bitbucket
+Jira
+Splunk 
+Elasticsearch 
+Nagios
+Prometheus 
+Grafana
+AppDynamics
+DataDog
+NewRelic
+Dynatrace 
 </pre>
