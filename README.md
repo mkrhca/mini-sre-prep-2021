@@ -47,7 +47,7 @@ Network Diagnostic Tools
 </pre>
 
 
-### Certification Knowledge 
+##### Certification Knowledge 
 <pre>
 Docker Certified Associate
 AWS Certified Developer Associate 
@@ -67,7 +67,7 @@ Certified Information Systems Security Professional
 AWS Certifed Security - Speciality 
 </pre>
 
-### Tools 
+##### Tools 
 <pre>
 Git
 Gitlab
